@@ -394,9 +394,13 @@ body {
     z-index: 9;
     background-color: #f5dfcf;
   }
-  #dets2 {
-    background-color: #f5dfcf;
+  #page2 i {
+    font-size: 3vw;
   }
+  #page2 span {
+    font-size: 3vw;
+  }
+
   #page3 {
     min-height: 120vh;
     width: 100%;
